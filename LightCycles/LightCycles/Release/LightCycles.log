@@ -1,0 +1,59 @@
+﻿Build started 4/26/2017 10:06:19 AM.
+     1>Project "C:\Users\Lance\Documents\cpts122\LightCycles\LightCycles\LightCycles.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\Lance\Documents\SFML-2.4.2\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Bike.cpp main.cpp
+         Bike.cpp
+         main.cpp
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(82): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(87): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(159): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(160): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(161): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(162): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(163): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(166): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(167): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(168): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(169): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(173): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(174): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(175): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(176): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\mainMenuScreen.h(177): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\gameScreen.h(70): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\gameScreen.h(77): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\gameScreen.h(226): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\gameScreen.h(227): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\gameScreen.h(69): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\gameScreen.h(76): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+     1>c:\users\lance\documents\cpts122\lightcycles\lightcycles\rulesScreen.h(38): warning C4996: 'sf::Text::setColor': was declared deprecated
+         C:\Users\Lance\Documents\SFML-2.4.2\include\SFML/Graphics/Text.hpp(177): note: see declaration of 'sf::Text::setColor'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lance\Documents\cpts122\LightCycles\Release\LightCycles.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Lance\Documents\SFML-2.4.2\lib" "sfml-main.lib" "sfml-window.lib" "sfml-system.lib" "sfml-graphics.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Lance\Documents\cpts122\LightCycles\Release\LightCycles.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lance\Documents\cpts122\LightCycles\Release\LightCycles.lib" /MACHINE:X86 /SAFESEH Release\Bike.obj
+         Release\main.obj
+            Creating library C:\Users\Lance\Documents\cpts122\LightCycles\Release\LightCycles.lib and object C:\Users\Lance\Documents\cpts122\LightCycles\Release\LightCycles.exp
+         Generating code
+         All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         LightCycles.vcxproj -> C:\Users\Lance\Documents\cpts122\LightCycles\Release\LightCycles.exe
+     1>Done Building Project "C:\Users\Lance\Documents\cpts122\LightCycles\LightCycles\LightCycles.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.30
